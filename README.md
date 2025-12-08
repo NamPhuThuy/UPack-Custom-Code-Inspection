@@ -35,10 +35,10 @@ with content
 
 Step 2:
 In Rider:
-- Right-click solution → Restore NuGet Packages
-- Or restart Rider (it auto-restores) (I dont think this works)
+- Shift-Shift → Nuget Restore  
+![alt text]({675A9C05-960D-4333-8E4C-F0943C0AA5F5}.png)
+- Restart Rider
 
-Step 3:
 
 Sources:
 - [Microsoft Unity Analyzer](https://github.com/microsoft/Microsoft.Unity.Analyzers)
